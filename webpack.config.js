@@ -21,7 +21,7 @@ module.exports = {
     compress: true,
     port: 3000,
   },
-  devtool: "eval-cheap-source-map",
+  devtool: false,
   module: {
     rules: [
       {
