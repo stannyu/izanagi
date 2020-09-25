@@ -30,7 +30,7 @@ This is the place where business logic live.*
 
 # Demo
 
-The demo is available [here](https://tut.by)
+The demo is available [here](https://stannyu.github.io/izanagi/dist/)
 
 # Building and running on localhost
 
